@@ -1,0 +1,12 @@
+﻿.git/
+**/db/
+**/incremental_db/
+**/output_files/
+**/simulation/modelsim/work/
+**/simulation/modelsim/transcript
+**/simulation/modelsim/*.wlf
+**/*.qws
+**/*.rpt
+**/*.log
+__pycache__/
+*.py[cod]

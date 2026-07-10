@@ -1,0 +1,213 @@
+# Reading C:/altera/13.1/modelsim_ase/tcl/vsim/pref.tcl 
+# do processador_mips_run_msim_rtl_vhdl.do 
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Copying C:\altera\13.1\modelsim_ase\win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# ** Warning: Copied C:\altera\13.1\modelsim_ase\win32aloem/../modelsim.ini to modelsim.ini.
+#          Updated modelsim.ini.
+# 
+# vcom -2008 -work work {C:/Users/Djmz2/Downloads/MeuProjetoMIPS/MeuProjetoMIPS/Diretorio_VHDL/hardware/pc.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity pc
+# -- Compiling architecture behave of pc
+# vcom -2008 -work work {C:/Users/Djmz2/Downloads/MeuProjetoMIPS/MeuProjetoMIPS/Diretorio_VHDL/hardware/imem.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package std_logic_textio
+# -- Compiling entity imem
+# -- Compiling architecture behavioral of imem
+# vcom -2008 -work work {C:/Users/Djmz2/Downloads/MeuProjetoMIPS/MeuProjetoMIPS/Diretorio_VHDL/hardware/dmem.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity dmem
+# -- Compiling architecture behave of dmem
+# vcom -2008 -work work {C:/Users/Djmz2/Downloads/MeuProjetoMIPS/MeuProjetoMIPS/Diretorio_VHDL/hardware/regfile.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity regfile
+# -- Compiling architecture behave of regfile
+# vcom -2008 -work work {C:/Users/Djmz2/Downloads/MeuProjetoMIPS/MeuProjetoMIPS/Diretorio_VHDL/hardware/ula.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity ula
+# -- Compiling architecture rtl of ula
+# vcom -2008 -work work {C:/Users/Djmz2/Downloads/MeuProjetoMIPS/MeuProjetoMIPS/Diretorio_VHDL/hardware/alu_control.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity alu_control
+# -- Compiling architecture behave of alu_control
+# vcom -2008 -work work {C:/Users/Djmz2/Downloads/MeuProjetoMIPS/MeuProjetoMIPS/Diretorio_VHDL/hardware/control_unit.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity control_unit
+# -- Compiling architecture behave of control_unit
+# vcom -2008 -work work {C:/Users/Djmz2/Downloads/MeuProjetoMIPS/MeuProjetoMIPS/Diretorio_VHDL/hardware/signext.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity signext
+# -- Compiling architecture behave of signext
+# vcom -2008 -work work {C:/Users/Djmz2/Downloads/MeuProjetoMIPS/MeuProjetoMIPS/Diretorio_VHDL/hardware/sl2.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity sl2
+# -- Compiling architecture behave of sl2
+# vcom -2008 -work work {C:/Users/Djmz2/Downloads/MeuProjetoMIPS/MeuProjetoMIPS/Diretorio_VHDL/hardware/processador_top.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity processador_top
+# -- Compiling architecture structural of processador_top
+# -- Loading entity pc
+# -- Loading package std_logic_textio
+# -- Loading entity imem
+# -- Loading entity control_unit
+# -- Loading entity regfile
+# -- Loading entity signext
+# -- Loading entity sl2
+# -- Loading entity alu_control
+# -- Loading entity ula
+# -- Loading entity dmem
+# 
+# vcom -2008 -work work {C:/Users/Djmz2/Downloads/MeuProjetoMIPS/MeuProjetoMIPS/Diretorio_VHDL/arquivos_projeto/../simulacao_testbench/tb_processador_top.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity tb_processador_top
+# -- Compiling architecture sim of tb_processador_top
+# -- Loading entity processador_top
+# 
+# vsim -t 1ps -L altera -L lpm -L sgate -L altera_mf -L altera_lnsim -L cycloneive -L rtl_work -L work -voptargs="+acc"  tb_processador_top
+# vsim -L altera -L lpm -L sgate -L altera_mf -L altera_lnsim -L cycloneive -L rtl_work -L work -voptargs=\"+acc\" -t 1ps tb_processador_top 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.tb_processador_top(sim)
+# Loading ieee.std_logic_textio(body)
+# Loading work.processador_top(structural)
+# Loading work.pc(behave)
+# Loading work.imem(behavioral)
+# Loading work.control_unit(behave)
+# Loading work.regfile(behave)
+# Loading work.signext(behave)
+# Loading work.sl2(behave)
+# Loading work.alu_control(behave)
+# Loading work.ula(rtl)
+# Loading work.dmem(behave)
+# 
+# add wave *
+# view structure
+# .main_pane.structure.interior.cs.body.struct
+# view signals
+# .main_pane.objects.interior.cs.body.tree
+# run -all
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /tb_processador_top/dut/U_DMEM
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /tb_processador_top/dut/U_REGFILE
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /tb_processador_top/dut/U_REGFILE
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /tb_processador_top/dut/U_REGFILE
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /tb_processador_top/dut/U_REGFILE
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /tb_processador_top/dut/U_IMEM
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 2  Instance: /tb_processador_top/dut/U_DMEM
+# ** Note: ciclo 0  pc=0 (esp 0)  alu=0x0000000C (esp 0x0000000C)
+#    Time: 13 ns  Iteration: 0  Instance: /tb_processador_top
+# ** Note: ciclo 1  pc=4 (esp 4)  alu=0x0000000A (esp 0x0000000A)
+#    Time: 16 ns  Iteration: 0  Instance: /tb_processador_top
+# ** Note: ciclo 2  pc=8 (esp 8)  alu=0xFFFFFFF8 (esp 0xFFFFFFF8)
+#    Time: 26 ns  Iteration: 0  Instance: /tb_processador_top
+# ** Note: ciclo 3  pc=12 (esp 12)  alu=0x00000016 (esp 0x00000016)
+#    Time: 36 ns  Iteration: 0  Instance: /tb_processador_top
+# ** Note: ciclo 4  pc=16 (esp 16)  alu=0x00000002 (esp 0x00000002)
+#    Time: 46 ns  Iteration: 0  Instance: /tb_processador_top
+# ** Note: ciclo 5  pc=20 (esp 20)  alu=0x00000008 (esp 0x00000008)
+#    Time: 56 ns  Iteration: 0  Instance: /tb_processador_top
+# ** Note: ciclo 6  pc=24 (esp 24)  alu=0x0000000E (esp 0x0000000E)
+#    Time: 66 ns  Iteration: 0  Instance: /tb_processador_top
+# ** Note: ciclo 7  pc=28 (esp 28)  alu=0x00000006 (esp 0x00000006)
+#    Time: 76 ns  Iteration: 0  Instance: /tb_processador_top
+# ** Note: ciclo 8  pc=32 (esp 32)  alu=0xFFFFFFF1 (esp 0xFFFFFFF1)
+#    Time: 86 ns  Iteration: 0  Instance: /tb_processador_top
+# ** Note: ciclo 9  pc=36 (esp 36)  alu=0x00000001 (esp 0x00000001)
+#    Time: 96 ns  Iteration: 0  Instance: /tb_processador_top
+# ** Note: ciclo 10  pc=40 (esp 40)  alu=0x00000028 (esp 0x00000028)
+#    Time: 106 ns  Iteration: 0  Instance: /tb_processador_top
+# ** Note: ciclo 11  pc=44 (esp 44)  alu=0x00000003 (esp 0x00000003)
+#    Time: 116 ns  Iteration: 0  Instance: /tb_processador_top
+# ** Note: ciclo 12  pc=48 (esp 48)  alu=0xFFFFFFFC (esp 0xFFFFFFFC)
+#    Time: 126 ns  Iteration: 0  Instance: /tb_processador_top
+# ** Note: ciclo 13  pc=52 (esp 52)  alu=0x0000000A (esp 0x0000000A)
+#    Time: 136 ns  Iteration: 0  Instance: /tb_processador_top
+# ** Note: ciclo 14  pc=56 (esp 56)  alu=0x00000000 (esp 0x00000000)
+#    Time: 146 ns  Iteration: 0  Instance: /tb_processador_top
+# ** Note: ciclo 15  pc=68 (esp 68)  alu=0x00000007 (esp 0x00000007)
+#    Time: 156 ns  Iteration: 0  Instance: /tb_processador_top
+# ** Note: ciclo 16  pc=72 (esp 72)  alu=0x00000008 (esp 0x00000008)
+#    Time: 166 ns  Iteration: 0  Instance: /tb_processador_top
+# ** Note: ciclo 17  pc=76 (esp 76)  alu=0x00000004 (esp 0x00000004)
+#    Time: 176 ns  Iteration: 0  Instance: /tb_processador_top
+# ** Note: ciclo 18  pc=88 (esp 88)  alu=0x00000037 (esp 0x00000037)
+#    Time: 186 ns  Iteration: 0  Instance: /tb_processador_top
+# ** Note: ciclo 19  pc=92 (esp 92)  alu=0x00000004 (esp 0x00000004)
+#    Time: 196 ns  Iteration: 0  Instance: /tb_processador_top
+# ** Note: ciclo 20  pc=96 (esp 96)  alu=0x0000000B (esp 0x0000000B)
+#    Time: 206 ns  Iteration: 0  Instance: /tb_processador_top
+# ** Note: ciclo 21  pc=100 (esp 100)  alu=0x00000000 (esp 0x00000000)
+#    Time: 216 ns  Iteration: 0  Instance: /tb_processador_top
+# ** Note: ciclo 22  pc=112 (esp 112)  alu=0x0000002A (esp 0x0000002A)
+#    Time: 226 ns  Iteration: 0  Instance: /tb_processador_top
+# ** Note: ciclo 23  pc=116 (esp 116)  alu=0x00000000 (esp 0x00000000)
+#    Time: 236 ns  Iteration: 0  Instance: /tb_processador_top
+# ** Note: ciclo 24  pc=116 (esp 116)  alu=0x00000000 (esp 0x00000000)
+#    Time: 246 ns  Iteration: 0  Instance: /tb_processador_top
+# ** Note: ciclo 25  pc=116 (esp 116)  alu=0x00000000 (esp 0x00000000)
+#    Time: 256 ns  Iteration: 0  Instance: /tb_processador_top
+# ** Note: ciclo 26  pc=116 (esp 116)  alu=0x00000000 (esp 0x00000000)
+#    Time: 266 ns  Iteration: 0  Instance: /tb_processador_top
+# ** Note: ciclo 27  pc=116 (esp 116)  alu=0x00000000 (esp 0x00000000)
+#    Time: 276 ns  Iteration: 0  Instance: /tb_processador_top
+# ** Note: ciclo 28  pc=116 (esp 116)  alu=0x00000000 (esp 0x00000000)
+#    Time: 286 ns  Iteration: 0  Instance: /tb_processador_top
+# ** Note: ciclo 29  pc=116 (esp 116)  alu=0x00000000 (esp 0x00000000)
+#    Time: 296 ns  Iteration: 0  Instance: /tb_processador_top
+# ** Note: TODOS OS TESTES PASSARAM: ADD, ADDI, SUB, AND, OR, XOR, NOR, SLT, SLL, SRL, SRA, BEQ, BNE e J estao corretos.
+#    Time: 297 ns  Iteration: 0  Instance: /tb_processador_top
+add wave -position end  sim:/tb_processador_top/expected_pc
+add wave -position end  sim:/tb_processador_top/expected_alu

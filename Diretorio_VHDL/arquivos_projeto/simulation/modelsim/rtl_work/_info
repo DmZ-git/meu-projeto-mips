@@ -1,0 +1,417 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Djmz2\Downloads\MeuProjetoMIPS\MeuProjetoMIPS\Diretorio_VHDL\arquivos_projeto\simulation\modelsim
+Ealu_control
+Z1 w1784065944
+Z2 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z3 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z4 dC:\Users\Djmz2\Downloads\MeuProjetoMIPS\MeuProjetoMIPS\Diretorio_VHDL\arquivos_projeto\simulation\modelsim
+Z5 8C:/Users/Djmz2/Downloads/MeuProjetoMIPS/MeuProjetoMIPS/Diretorio_VHDL/hardware/alu_control.vhd
+Z6 FC:/Users/Djmz2/Downloads/MeuProjetoMIPS/MeuProjetoMIPS/Diretorio_VHDL/hardware/alu_control.vhd
+l0
+L4
+Vf`]NDRDgDKo6>8]bmDXW`0
+Z7 OV;C;10.1d;51
+33
+Z8 !s108 1784071769.835000
+Z9 !s90 -reportprogress|300|-2008|-work|work|C:/Users/Djmz2/Downloads/MeuProjetoMIPS/MeuProjetoMIPS/Diretorio_VHDL/hardware/alu_control.vhd|
+Z10 !s107 C:/Users/Djmz2/Downloads/MeuProjetoMIPS/MeuProjetoMIPS/Diretorio_VHDL/hardware/alu_control.vhd|
+Z11 o-2008 -work work -O0
+Z12 tExplicit 1
+!s100 ACTI9]M<cD__]DRF3o;7e1
+!i10b 1
+Abehave
+R2
+R3
+Z13 DEx4 work 11 alu_control 0 22 f`]NDRDgDKo6>8]bmDXW`0
+l14
+L13
+V8K;J`zN]EaG7@?CVk9VUZ1
+R7
+33
+R8
+R9
+R10
+R11
+R12
+!s100 il0h6YbjDEZX=JL4]bGD]3
+!i10b 1
+Econtrol_unit
+R1
+R2
+R3
+R4
+Z14 8C:/Users/Djmz2/Downloads/MeuProjetoMIPS/MeuProjetoMIPS/Diretorio_VHDL/hardware/control_unit.vhd
+Z15 FC:/Users/Djmz2/Downloads/MeuProjetoMIPS/MeuProjetoMIPS/Diretorio_VHDL/hardware/control_unit.vhd
+l0
+L4
+Vnen@8Q[NNnTmZY`CczQP>3
+R7
+33
+Z16 !s108 1784071769.881000
+Z17 !s90 -reportprogress|300|-2008|-work|work|C:/Users/Djmz2/Downloads/MeuProjetoMIPS/MeuProjetoMIPS/Diretorio_VHDL/hardware/control_unit.vhd|
+Z18 !s107 C:/Users/Djmz2/Downloads/MeuProjetoMIPS/MeuProjetoMIPS/Diretorio_VHDL/hardware/control_unit.vhd|
+R11
+R12
+!s100 k`9l^JCgB:m<FMXD0M]<63
+!i10b 1
+Abehave
+R2
+R3
+Z19 DEx4 work 12 control_unit 0 22 nen@8Q[NNnTmZY`CczQP>3
+l22
+L21
+Ve21VkN2Yo1gV6fV00L9ck0
+R7
+33
+R16
+R17
+R18
+R11
+R12
+!s100 19Czf0ciR[AgkhOAHDCXP0
+!i10b 1
+Edmem
+R1
+Z20 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+R2
+R3
+R4
+Z21 8C:/Users/Djmz2/Downloads/MeuProjetoMIPS/MeuProjetoMIPS/Diretorio_VHDL/hardware/dmem.vhd
+Z22 FC:/Users/Djmz2/Downloads/MeuProjetoMIPS/MeuProjetoMIPS/Diretorio_VHDL/hardware/dmem.vhd
+l0
+L5
+VYm_MhkWc;9gX[TGnDaban3
+R7
+33
+Z23 !s108 1784071769.671000
+Z24 !s90 -reportprogress|300|-2008|-work|work|C:/Users/Djmz2/Downloads/MeuProjetoMIPS/MeuProjetoMIPS/Diretorio_VHDL/hardware/dmem.vhd|
+Z25 !s107 C:/Users/Djmz2/Downloads/MeuProjetoMIPS/MeuProjetoMIPS/Diretorio_VHDL/hardware/dmem.vhd|
+R11
+R12
+!s100 J7FR59VW^h79CGmI`eOCD3
+!i10b 1
+Abehave
+R20
+R2
+R3
+Z26 DEx4 work 4 dmem 0 22 Ym_MhkWc;9gX[TGnDaban3
+l24
+L17
+V2AODl1E3cOBOR^_TGIJ6o3
+R7
+33
+R23
+R24
+R25
+R11
+R12
+!s100 LSjKA7Xn_dbkz>J>_;IoS3
+!i10b 1
+Eimem
+R1
+Z27 DPx4 ieee 16 std_logic_textio 0 22 ?Il0a149GV276[?[UMDWh2
+R20
+R2
+R3
+R4
+Z28 8C:/Users/Djmz2/Downloads/MeuProjetoMIPS/MeuProjetoMIPS/Diretorio_VHDL/hardware/imem.vhd
+Z29 FC:/Users/Djmz2/Downloads/MeuProjetoMIPS/MeuProjetoMIPS/Diretorio_VHDL/hardware/imem.vhd
+l0
+L7
+VU1Z1]`9Hi0V4[VRdXca:?0
+R7
+33
+Z30 !s108 1784071769.619000
+Z31 !s90 -reportprogress|300|-2008|-work|work|C:/Users/Djmz2/Downloads/MeuProjetoMIPS/MeuProjetoMIPS/Diretorio_VHDL/hardware/imem.vhd|
+Z32 !s107 C:/Users/Djmz2/Downloads/MeuProjetoMIPS/MeuProjetoMIPS/Diretorio_VHDL/hardware/imem.vhd|
+R11
+R12
+!s100 SNaJla=JQ<WeQ^?KafZ<X0
+!i10b 1
+Abehavioral
+R27
+R20
+R2
+R3
+Z33 DEx4 work 4 imem 0 22 U1Z1]`9Hi0V4[VRdXca:?0
+l45
+L14
+VlI81PD1_LOWi>;gA83BTd1
+R7
+33
+R30
+R31
+R32
+R11
+R12
+!s100 5^lNddWTb?4J=409f<]>d0
+!i10b 1
+Epc
+R1
+R20
+R2
+R3
+R4
+Z34 8C:/Users/Djmz2/Downloads/MeuProjetoMIPS/MeuProjetoMIPS/Diretorio_VHDL/hardware/pc.vhd
+Z35 FC:/Users/Djmz2/Downloads/MeuProjetoMIPS/MeuProjetoMIPS/Diretorio_VHDL/hardware/pc.vhd
+l0
+L5
+V3higb9NClHNFJTEhGRY9f2
+R7
+33
+Z36 !s108 1784071769.565000
+Z37 !s90 -reportprogress|300|-2008|-work|work|C:/Users/Djmz2/Downloads/MeuProjetoMIPS/MeuProjetoMIPS/Diretorio_VHDL/hardware/pc.vhd|
+Z38 !s107 C:/Users/Djmz2/Downloads/MeuProjetoMIPS/MeuProjetoMIPS/Diretorio_VHDL/hardware/pc.vhd|
+R11
+R12
+!s100 GBb5?z<@B<KHZ_Q^>MnXA2
+!i10b 1
+Abehave
+R20
+R2
+R3
+Z39 DEx4 work 2 pc 0 22 3higb9NClHNFJTEhGRY9f2
+l18
+L14
+VcoDGYa559e;B9hZIWZzV]2
+R7
+33
+R36
+R37
+R38
+R11
+R12
+!s100 AZo62;D>=YGMZ2S4X0cI91
+!i10b 1
+Eprocessador_top
+R1
+R20
+R2
+R3
+R4
+Z40 8C:/Users/Djmz2/Downloads/MeuProjetoMIPS/MeuProjetoMIPS/Diretorio_VHDL/hardware/processador_top.vhd
+Z41 FC:/Users/Djmz2/Downloads/MeuProjetoMIPS/MeuProjetoMIPS/Diretorio_VHDL/hardware/processador_top.vhd
+l0
+L5
+V2Hm5BWBe`RekPd8zI7c`B2
+R7
+33
+Z42 !s108 1784071770.022000
+Z43 !s90 -reportprogress|300|-2008|-work|work|C:/Users/Djmz2/Downloads/MeuProjetoMIPS/MeuProjetoMIPS/Diretorio_VHDL/hardware/processador_top.vhd|
+Z44 !s107 C:/Users/Djmz2/Downloads/MeuProjetoMIPS/MeuProjetoMIPS/Diretorio_VHDL/hardware/processador_top.vhd|
+R11
+R12
+!s100 3iIAFzV5n@dlY=Lak_EQJ1
+!i10b 1
+Astructural
+R26
+Z45 DEx4 work 3 ula 0 22 WMGkTB;oaQ^bbbLgI`a=b2
+R13
+Z46 DEx4 work 3 sl2 0 22 :?b2MObdn4=Tz=DD44ed:1
+Z47 DEx4 work 7 signext 0 22 2bfLVdcfIAakaN8>5b];:2
+Z48 DEx4 work 7 regfile 0 22 T2B8QNUI^>@XTdIl:GF@W3
+R19
+R27
+R33
+R39
+R20
+R2
+R3
+Z49 DEx4 work 15 processador_top 0 22 2Hm5BWBe`RekPd8zI7c`B2
+l80
+L12
+VkLXB8GR]MSM9@d[eT1:JL2
+R7
+33
+R42
+R43
+R44
+R11
+R12
+!s100 bmlPBozQS`Nahb_Yn^iJB3
+!i10b 1
+Eregfile
+R1
+R20
+R2
+R3
+R4
+Z50 8C:/Users/Djmz2/Downloads/MeuProjetoMIPS/MeuProjetoMIPS/Diretorio_VHDL/hardware/regfile.vhd
+Z51 FC:/Users/Djmz2/Downloads/MeuProjetoMIPS/MeuProjetoMIPS/Diretorio_VHDL/hardware/regfile.vhd
+l0
+L5
+VT2B8QNUI^>@XTdIl:GF@W3
+R7
+33
+Z52 !s108 1784071769.737000
+Z53 !s90 -reportprogress|300|-2008|-work|work|C:/Users/Djmz2/Downloads/MeuProjetoMIPS/MeuProjetoMIPS/Diretorio_VHDL/hardware/regfile.vhd|
+Z54 !s107 C:/Users/Djmz2/Downloads/MeuProjetoMIPS/MeuProjetoMIPS/Diretorio_VHDL/hardware/regfile.vhd|
+R11
+R12
+!s100 =4zQ><<g;0ch^hRK0O3m@0
+!i10b 1
+Abehave
+R20
+R2
+R3
+R48
+l29
+L22
+VjTLf0A1bFh6Al_fo`9FNz0
+R7
+33
+R52
+R53
+R54
+R11
+R12
+!s100 CSUL:`M^<^YB_^0;m?man0
+!i10b 1
+Esignext
+R1
+R2
+R3
+R4
+Z55 8C:/Users/Djmz2/Downloads/MeuProjetoMIPS/MeuProjetoMIPS/Diretorio_VHDL/hardware/signext.vhd
+Z56 FC:/Users/Djmz2/Downloads/MeuProjetoMIPS/MeuProjetoMIPS/Diretorio_VHDL/hardware/signext.vhd
+l0
+L4
+V2bfLVdcfIAakaN8>5b];:2
+R7
+33
+Z57 !s108 1784071769.928000
+Z58 !s90 -reportprogress|300|-2008|-work|work|C:/Users/Djmz2/Downloads/MeuProjetoMIPS/MeuProjetoMIPS/Diretorio_VHDL/hardware/signext.vhd|
+Z59 !s107 C:/Users/Djmz2/Downloads/MeuProjetoMIPS/MeuProjetoMIPS/Diretorio_VHDL/hardware/signext.vhd|
+R11
+R12
+!s100 lkaZo;U7Bg]a>jm1T[Z1d2
+!i10b 1
+Abehave
+R2
+R3
+R47
+l12
+L11
+VUfGOn3]1_VSP9Bm7RZ66J3
+R7
+33
+R57
+R58
+R59
+R11
+R12
+!s100 dNLEgT5odF:NATg_@4[eb0
+!i10b 1
+Esl2
+R1
+R2
+R3
+R4
+Z60 8C:/Users/Djmz2/Downloads/MeuProjetoMIPS/MeuProjetoMIPS/Diretorio_VHDL/hardware/sl2.vhd
+Z61 FC:/Users/Djmz2/Downloads/MeuProjetoMIPS/MeuProjetoMIPS/Diretorio_VHDL/hardware/sl2.vhd
+l0
+L4
+V:?b2MObdn4=Tz=DD44ed:1
+R7
+33
+Z62 !s108 1784071769.974000
+Z63 !s90 -reportprogress|300|-2008|-work|work|C:/Users/Djmz2/Downloads/MeuProjetoMIPS/MeuProjetoMIPS/Diretorio_VHDL/hardware/sl2.vhd|
+Z64 !s107 C:/Users/Djmz2/Downloads/MeuProjetoMIPS/MeuProjetoMIPS/Diretorio_VHDL/hardware/sl2.vhd|
+R11
+R12
+!s100 C8GV`GF3e;:ZhXdkzOo>B3
+!i10b 1
+Abehave
+R2
+R3
+R46
+l12
+L11
+VhbFHz``iTMk4Sbn7]NU[92
+R7
+33
+R62
+R63
+R64
+R11
+R12
+!s100 REPeMFOYN_ofKG@2=N>1T0
+!i10b 1
+Etb_processador_top
+Z65 w1784071708
+R20
+R2
+R3
+R4
+Z66 8C:/Users/Djmz2/Downloads/MeuProjetoMIPS/MeuProjetoMIPS/Diretorio_VHDL/arquivos_projeto/../simulacao_testbench/tb_processador_top.vhd
+Z67 FC:/Users/Djmz2/Downloads/MeuProjetoMIPS/MeuProjetoMIPS/Diretorio_VHDL/arquivos_projeto/../simulacao_testbench/tb_processador_top.vhd
+l0
+L5
+Vg]:Ez?bbACMK[<OE0d43=1
+!s100 m?N3:38eBWPh=Hi5LoMIh2
+R7
+33
+!i10b 1
+Z68 !s108 1784071770.077000
+Z69 !s90 -reportprogress|300|-2008|-work|work|C:/Users/Djmz2/Downloads/MeuProjetoMIPS/MeuProjetoMIPS/Diretorio_VHDL/arquivos_projeto/../simulacao_testbench/tb_processador_top.vhd|
+Z70 !s107 C:/Users/Djmz2/Downloads/MeuProjetoMIPS/MeuProjetoMIPS/Diretorio_VHDL/arquivos_projeto/../simulacao_testbench/tb_processador_top.vhd|
+R11
+R12
+Asim
+R49
+R20
+R2
+R3
+DEx4 work 18 tb_processador_top 0 22 g]:Ez?bbACMK[<OE0d43=1
+l34
+L8
+VP6TVUMGGge7D>F3R<VaWk1
+!s100 6mc8U6<HFk8GmJ;UAG;^i3
+R7
+33
+!i10b 1
+R68
+R69
+R70
+R11
+R12
+Eula
+R1
+R20
+R2
+R3
+R4
+Z71 8C:/Users/Djmz2/Downloads/MeuProjetoMIPS/MeuProjetoMIPS/Diretorio_VHDL/hardware/ula.vhd
+Z72 FC:/Users/Djmz2/Downloads/MeuProjetoMIPS/MeuProjetoMIPS/Diretorio_VHDL/hardware/ula.vhd
+l0
+L5
+VWMGkTB;oaQ^bbbLgI`a=b2
+R7
+33
+Z73 !s108 1784071769.784000
+Z74 !s90 -reportprogress|300|-2008|-work|work|C:/Users/Djmz2/Downloads/MeuProjetoMIPS/MeuProjetoMIPS/Diretorio_VHDL/hardware/ula.vhd|
+Z75 !s107 C:/Users/Djmz2/Downloads/MeuProjetoMIPS/MeuProjetoMIPS/Diretorio_VHDL/hardware/ula.vhd|
+R11
+R12
+!s100 6EjSL`90D`9dCI3kzYVh92
+!i10b 1
+Artl
+R20
+R2
+R3
+R45
+l20
+L19
+VQ[V_b_gXMW72zCc`kfOHU0
+R7
+33
+R73
+R74
+R75
+R11
+R12
+!s100 A:1BimnR5TziJUielJ5CN3
+!i10b 1
